@@ -8,7 +8,7 @@
 local Settings = {
     FOVRadius = 300,                    -- Raio do FOV (100-500)
     LockSmoothness = 0.1,                 -- Suavidade da câmera (0-1)
-    Keybind = "Q",                       -- Tecla para ativar/desativar
+    Keybind = "E",                       -- Tecla para ativar/desativar
     ShowUI = true,                       -- Mostrar interface gráfica
     OutlineColor = Color3.fromRGB(255, 50, 50),    -- Cor do outline
     TargetColor = Color3.fromRGB(255, 100, 100)    -- Cor do indicador
